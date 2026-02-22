@@ -1,5 +1,5 @@
 
-HI, my name is SHAFIU![WelcomeMichaelScottGIF](https://github.com/user-attachments/assets/7deda178-bc0c-4086-8b75-fff8bb252e94)
+HI, my name is SHAFIU   ![WelcomeMichaelScottGIF](https://github.com/user-attachments/assets/7deda178-bc0c-4086-8b75-fff8bb252e94)
 
 
 #### I'm from Reggio Emilia, I try to write code 💻 and solve problems .
